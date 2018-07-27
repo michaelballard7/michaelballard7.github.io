@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Deciding to begin a new journey"
-date:       2018-07-27 22:34:23 +0000
+date:       2018-07-27 18:34:24 -0400
 permalink:  deciding_to_begin_a_new_journey
 ---
 
 
-Programming to me is a outlet to a better form of expression, analysis and automation. I have decided to take this journey in order to develop interfaces and data applications that allow me to carry out some of my most pertinent careet functions.
+Programming to me is a outlet to a better form of expression, analysis and automation. I have decided to take this journey in order to develop interfaces and data applications that allow me to carry out some of my most pertinent career functions.
 
 For many years I have sought to become a Quantitative Trader. Upon beginning my journey I had come to find that the best of the best quant not only know how to perform analysis of potential trading strategies, but the best ones can automate there work flow from end to end.
 
