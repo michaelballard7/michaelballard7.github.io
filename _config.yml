@@ -1,15 +1,14 @@
 # Site settings
-title: 
+author: Michael Ballard
+title: An new introduction
 header-img: img/home-bg.png
 email: ballard.michael9@gmail.com
-copyright_name: michaelballard7
+copyright_name: Michael Ballard
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Beginning a new
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  michaelballard7
-learn_profile: michaelballard7
-email_username: ballard.michael9@gmail.com
 
 # Build settings
 markdown: kramdown
