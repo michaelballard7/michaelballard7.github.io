@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: ballard.michael9@gmail.com
 copyright_name: Michael Ballard
 description: > # this means to ignore newlines until "baseurl:"
-  Beginning a new
+  Welcome to the blog of Michael A Ballard
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  michaelballard7
