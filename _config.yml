@@ -3,11 +3,11 @@ author: Michael Ballard
 title: Quantamentals by Michael
 header-img: img/home-bg.png
 email: ballard.michael9@gmail.com
-copyright_name: Michael Ballard
+copyright_name: Michael A. Ballard
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to the blog of Michael A Ballard
+  Welcome Quantamentals by Michael A. Ballard
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username:
+twitter_username: Quantamentals
 github_username:  michaelballard7
 
 # Build settings
