@@ -6,17 +6,21 @@ permalink:  deciding_to_begin_a_new_journey
 ---
 
 
-Programming to me is a outlet to a better form of expression, analysis and automation. I have decided to take this journey in order to develop interfaces and data applications that allow me to carry out some of my most pertinent career functions.
+Programming to me is an outlet and the best form of human expression. I have decided to take a journeyman's path to develop systems, interfaces and data applications that allow me to carry out some of my most pertinent career goals of building a fully autonomous trading and portfolio management system.
 
-For many years I have sought to become a Quantitative Trader. Upon beginning my journey I had come to find that the best of the best quant not only know how to perform analysis of potential trading strategies, but the best ones can automate there work flow from end to end.
+Since closing my social search startup, I have sought to find synergy in my diverse skill sets. This has led me to the intersection of finance and technology, specifically, to become a Quantitative Portfolio Manager. 
 
-The thought of not only constructing trading signals, but the ability to automate all areas of my trading including research proved to intriguing of opportunity to let pass by.
+Upon beginning my journey, things were very daunting. Could I do it? Was I too far behind academically, mathematically? Many thoughts had gained real estate in my mind, but the energy I felt the moment I first saw a trading algorithm in action, I knew this was it and I had to gain the neccessary know how.
 
-As of now, I feel my skillset is growing tremendously. Before beginning Flatiron School I was a solid scientific programmer, now I have been expanding my skillset to encompass full stack web systems as well as computer science fundamentals such as data structures, algorithms and design patterns.
+No matter the journey ahead, I have endeavered to find that the best resources whether online courses, classic texts or software bootcamps to not only develop faculty with quantitative analysis, but to the best automate my entire workflow from data pipeline to execution.  The road a head certainly leads to a dissertaion in either applied math, data science or my favored choice, computational economics.
 
-End the end of my learning journey I hope utilize my skillset to retrieve data, visualize it and produce web interfaces that assist in my research, trading and interacting with various stakeholders.
+The thought of not only constructing economic models and trading signals, but the ability to automate all areas of my trading, continually proves to be the best source of physic income. If i'm lucky, hopefully the financial rewards will be as prudent, if not I certainly will find passion in the worlds of research. No matter the outcome, I see the financial markets as the olympics for the worlds brightest brains and for me the last meritocracy left for those willing to leap the great barriers of knowlegde. One thing for certain, through the challenges and brain stimulation there ceases to be a boring day.
 
-I look forward to the path ahead and I am taking things one day at a time.
+As of now, I feel my skillset has grown tremendously.  I'm sure glad I did not let the mountain of prerquisite subjects deter me. Before beginning Flatiron School I believed I was a solid novice programmer, now I have expanded my skillset to encompass full stack software systems as well as computer science fundamentals. 
+
+In the end of this portion of my learning journey I seek to develop prowess with my abilities to retrieve data, wrangle it, visualize and develop quantitative models. My end product from this stage is to produce full stack systems that assist in my research for trading signals, economic insights, risk management and portfolio analysis. From here I can move onto to complex systems and network programming for optimital trade execution & data transmission in confidence.
+
+My journey to quantamentals is my personal story of a journeyman on a road to compete with passion. I look forward to the path ahead and I am taking this road one step at a time, day by day.
 
 Best,
 
