@@ -1,11 +1,20 @@
 ---
 layout: post
-title:      "Starting Over"
-date:       2019-02-21 19:18:18 +0000
+title:      "The road to quantopia"
+date:       2019-02-21 14:18:20 -0500
 permalink:  starting_over
 ---
 
 
-It has almost been one year since I have begun my Flatiron Journey.  This is a test!
+It has almost been one year since I have relocated back to New York City. I have since attended bootcamps, meetups, taken countless hours of quantitative online courses and I'm finally seeing the  light at the end of the tunnel as I know longer lack clarity if this is the road for me. 
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+```
+def years__to_phd(x):
+   years = x
+   return "I have #{years} of dedication ahead of me!"
+end 
+```
+
+My journey has since led me to develop my first trading models and even trade discretionary to feel the intution behind my methods. My execution has not been perfect, but certainly not bad. Overall my learnings have encouraged me, but also reminded me that "Mr. market" is unbiased, rewarding for diligence and hard work.
+
+
